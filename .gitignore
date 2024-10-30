@@ -1,0 +1,3 @@
+//archivos y carpetas que deben ser ignoradas.
+/node_modules
+.env
